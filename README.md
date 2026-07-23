@@ -14,6 +14,11 @@ I am a backend-focused Software Engineer specializing in the design and developm
 My work emphasizes clean architecture, data integrity, security, system reliability, performance, and long-term maintainability. I design backend systems that are structured for real production environments and capable of supporting evolving business requirements.  
 I also have hands-on IT support experience in professional environments, which strengthens my ability to build practical, stable, and production-ready systems.
 
+### 📬 Contact
+
+* **Email:** [muserein@gmail.com](mailto:muserein@gmail.com)
+* **Location:** Kigali, Rwanda
+
 ### 🛠️ Tech Stack
 
 <p align="left">

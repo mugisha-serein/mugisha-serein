@@ -10,17 +10,9 @@
 
 ### 🚀 About Me
 
-I am a backend-focused Software Engineer specializing in the design and development of scalable, secure, and maintainable systems. I use Django and PostgreSQL to build robust backend architectures, including multi-tenant applications, RESTful APIs, authentication and authorization systems, audit logging platforms, and business-critical services.
-
-My work emphasizes clean architecture, data integrity, security, system reliability, performance, and long-term maintainability. I design backend systems that are structured for real production environments and capable of supporting evolving business requirements.
-
+I am a backend-focused Software Engineer specializing in the design and development of scalable, secure, and maintainable systems. I use Django and PostgreSQL to build robust backend architectures, including multi-tenant applications, RESTful APIs, authentication and authorization systems, audit logging platforms, and business-critical services.  
+My work emphasizes clean architecture, data integrity, security, system reliability, performance, and long-term maintainability. I design backend systems that are structured for real production environments and capable of supporting evolving business requirements.  
 I also have hands-on IT support experience in professional environments, which strengthens my ability to build practical, stable, and production-ready systems.
-
-### 📬 Contact
-
-* **Email:** [muserein@gmail.com](mailto:muserein@gmail.com)
-* **Location:** Kigali, Rwanda
-* **GitHub:** [github.com/mugisha-serein](https://github.com/mugisha-serein)
 
 ### 🛠️ Tech Stack
 
@@ -41,8 +33,8 @@ I also have hands-on IT support experience in professional environments, which s
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -52,24 +44,21 @@ I also have hands-on IT support experience in professional environments, which s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mugisha-serein&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mugisha-serein&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mugisha-serein&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mugisha-serein&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mugisha-serein&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mugisha-serein&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-
-<p align="center">
-  <i>From <a href="https://github.com/mugisha-serein">mugisha-serein</a></i>
-</p>
+<p align="center"><i>⭐️ From <a href="https://github.com/mugisha-serein">mugisha-serein</a></i></p>

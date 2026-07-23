@@ -56,12 +56,6 @@ I also have hands-on IT support experience in professional environments, which s
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mugisha-serein&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="Most used programming languages" />
 </p>
 
-### 🏆 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mugisha-serein&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
-</p>
-
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -77,5 +71,5 @@ I also have hands-on IT support experience in professional environments, which s
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/mugisha-serein">mugisha-serein</a></i>
+  <i>From <a href="https://github.com/mugisha-serein">mugisha-serein</a></i>
 </p>
